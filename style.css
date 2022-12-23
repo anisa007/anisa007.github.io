@@ -1,0 +1,30 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #97dece;
+}
+.jumbotron h1,
+h2 {
+  color: #07374a;
+}
+
+#about h2 {
+  color: #25b79f;
+}
+
+#projects {
+  background-color: #97dece;
+}
+
+#projects h2 {
+  color: #07374a;
+}
+
+#contact h2,
+.text-contact,
+a {
+  color: #25b79f;
+}
+
+section {
+  padding-top: 5rem;
+}
